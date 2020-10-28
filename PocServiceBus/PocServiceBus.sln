@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocServiceBus", "PocServiceBus\PocServiceBus.csproj", "{E7D4CDE8-2AB2-4C2D-98F3-355FEDC59996}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PocServiceBus", "PocServiceBus\PocServiceBus.csproj", "{E7D4CDE8-2AB2-4C2D-98F3-355FEDC59996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocServiceBusApi", "PocServiceBusApi\PocServiceBusApi.csproj", "{F9E53E8B-B228-430D-86F9-6D25AE421847}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E7D4CDE8-2AB2-4C2D-98F3-355FEDC59996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7D4CDE8-2AB2-4C2D-98F3-355FEDC59996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7D4CDE8-2AB2-4C2D-98F3-355FEDC59996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9E53E8B-B228-430D-86F9-6D25AE421847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E53E8B-B228-430D-86F9-6D25AE421847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E53E8B-B228-430D-86F9-6D25AE421847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E53E8B-B228-430D-86F9-6D25AE421847}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
