@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "PocServiceBus": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "+f670AyMjnsIQm/E8Aceh+SLn//bze4lLM8W0l7FiPc=",
+        "Connection": "Endpoint=sb://gotchamail.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=+f670AyMjnsIQm/E8Aceh+SLn//bze4lLM8W0l7FiPc="
+      }
+    }
+  }
+}
